@@ -4,10 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+This is my process site for Interactivity Design 3. If you have any questions, feel free to hit me up. [huntercaron.com](http://huntercaron.com/)
 
-You can find the source code for the Jekyll new theme at:
-[minima](https://github.com/jekyll/minima)
+This site uses Jekyll and is hosted on Github pages, you can find the source code for this site on its
+[github repo.](https://github.com/huntercaron/id3)
 
 You can find the source code for Jekyll at
 [jekyll](https://github.com/jekyll/jekyll)
