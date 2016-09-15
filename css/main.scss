@@ -52,7 +52,7 @@ body {
     font-family: $base-font-family;
     display: flex;
     justify-content: center;
-    margin: 4% 0 4% 0;
+    margin: 4%;
 }
 
 p {
@@ -61,28 +61,31 @@ p {
 }
 
 .site-header {
-
+    padding-bottom: 40px;
 }
 
 .site-title {
     text-decoration: none;
-    font-size: $small-font-size;
+
 }
 
 .title-title {
+    padding-top: 3px;
     margin-bottom: 2px;
     color: #333;
     line-height: 1;
 }
 
 .title-name {
+    color: $text-color;
     opacity: 0.5;
     font-weight: normal;
     margin-top: 0;
+    font-size: $small-font-size;
 }
 
 .page-content {
-    padding-left: 6%;
+    padding-left: 4%;
 
     max-width: 768px;
     flex-basis: auto;
@@ -105,4 +108,15 @@ p {
 .post-link-wrapper {
     margin-top: 2px;
     line-height: 1.5;
+}
+
+
+@media (max-width: 600px) {
+    body {
+        flex-direction: column;
+    }
+
+    .page-content {
+        padding-left: 0;
+    }
 }
