@@ -32,7 +32,7 @@ Data-Joins are one of the main ideas in D3, and are one of the reasons D3 is so 
 Instead of having to loop through each data-entry in your data, you simple tell D3 what you want it to do for each data-entry.
 
 ### The Common Data Pattern
-When working with data in D3 this is a common pattern you will go through. 
+When working with data in D3 this is a common pattern you will go through. If none of this makes sense to you that's okay. You'll be able to see how it all works in the Codepen.
 
 {% highlight javascript %}
 var text = g
