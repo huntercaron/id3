@@ -61,7 +61,7 @@ Another fundamental idea in D3 is the idea of Enter and Exit selections, as seen
 As seen above, after you join the new data to your selection you are going to want to use the _exit()_ selection to get rid of the data that is no longer relevant. After that, you'll want to use _enter()_ to select the new data, then _merge()_ that into the current data. After that you'll have the data you want selected and you're free to do whatever you please with it!
 
 Still confused? Don't worry, it took me a while.
-To help those of you who need to get their hands dirty to understand, I have made an example of these concepts on Codepen, which you can find below. Open up the 'Babel' tab to see some well commented javascript waiting for you. I recommended opening 
+To help those of you who need to get their hands dirty to understand, I have made an example of these concepts on Codepen, which you can find below. Open up the 'Babel' tab to see some well commented javascript waiting for you. I recommended opening it in Codepen so you can read the code easier and edit it for yourself to play around.
 
 <p data-height="533" data-theme-id="light" data-slug-hash="zKvmzm" data-default-tab="result" data-user="huntercaron" data-embed-version="2" class="codepen">See the Pen <a href="http://codepen.io/huntercaron/pen/zKvmzm/">d3-play</a> by Hunter Caron (<a href="http://codepen.io/huntercaron">@huntercaron</a>) on <a href="http://codepen.io">CodePen</a>.</p>
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
