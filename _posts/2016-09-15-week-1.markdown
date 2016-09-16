@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "Week 1: Finding a Topic"
+date:   2016-09-15
+categories: process
+---
+
+Another year, another process doc. Welcome.
+
+Writing this after the first week of class, having just chosen the Topic of _Big Data_. I chose this topic for various reasons.
+
+- Not many people know what big data is
+- Those who don't are possibly scared of it
+- Big data is VERY useful
+
+## The Plan
+
+1. Explain and visualize what big data is. Visualize the sheer scale of big data
+2. Show where all this data is. What companies have it, where in the world it is, etc.
+3. Explain the benefits of big data
+- For me
+- For Companies
+- For Humanity
+
+

@@ -135,6 +135,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll (= 3.2.1)
+  rouge
 
 RUBY VERSION
    ruby 2.3.0p0
