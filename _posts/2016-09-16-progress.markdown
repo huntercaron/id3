@@ -1,0 +1,9 @@
+---
+layout: post
+title:  “If you reading this I’m stuff uploading”
+date:   2016-09-15
+categories: process
+---
+
+My process wasn’t as well thought out as I would’ve liked for this project. I’m still getting it together.
+
