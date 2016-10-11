@@ -11,3 +11,8 @@ Being a designer and a developer is great at times. Being able to control the en
 
 This was however, a learning experience. After all that is what I’m here for. In retrospect I should have spent more time thinking through the various different parts in a more high fidelity fashion. You can tell what I did and didn’t thoroughly plan out. I have rethought that whole section, using physical things such as usb drives and lining them up to be roughly twice the size of England, which I think will work a lot better. It is now; once again; a matter of development. 
 
+Side Note: Canvas is really fun. Both the background hearts and the circle animation are written from scratch using html canvas. It's really fun figuring out how to do stuff with just math and thinking rather than wrestling with some third party plugin. The respective codepens can be found here: [Hearts][hearts], [Circle][circle]
+
+[hearts]: http://codepen.io/huntercaron/pen/zKEJJo
+[circle]: http://codepen.io/huntercaron/pen/amEoVL
+

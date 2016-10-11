@@ -7,6 +7,8 @@ categories: process
 
 ## Intro
 
+(note: this was made so I could send it to some friends if they wanted to try D3, but I thought it was important process to include.)
+
 If you ask a class to find search the web for cool data visualizations, there is a pretty big chance one of them will find something that uses [D3.js][d3]. D3 seems to be the go-to javascript library when it comes to data vis on the web. It was created by the ex-editor of the New York Times Graphics Department, Michael Bostock.
 
 I have used D3 before, but was only able to make stuff happen by copying bits and pieces from examples and constantly struggling. I was never able to appreciate the power and efficiency that D3 is known for.
